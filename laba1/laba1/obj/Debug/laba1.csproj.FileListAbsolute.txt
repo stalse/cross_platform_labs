@@ -1,0 +1,7 @@
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\bin\Debug\laba1.exe.config
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\bin\Debug\laba1.exe
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\bin\Debug\laba1.pdb
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\obj\Debug\laba1.csproj.AssemblyReference.cache
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\obj\Debug\laba1.csproj.CoreCompileInputs.cache
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\obj\Debug\laba1.exe
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba1\laba1\obj\Debug\laba1.pdb
