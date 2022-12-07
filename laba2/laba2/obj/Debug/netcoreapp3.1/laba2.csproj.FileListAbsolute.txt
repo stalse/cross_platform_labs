@@ -1,0 +1,14 @@
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.exe
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.deps.json
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.runtimeconfig.json
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.runtimeconfig.dev.json
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.dll
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\bin\Debug\netcoreapp3.1\laba2.pdb
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.csproj.AssemblyReference.cache
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.AssemblyInfoInputs.cache
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.AssemblyInfo.cs
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.csproj.CoreCompileInputs.cache
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.dll
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.pdb
+C:\Users\ыае\Desktop\Домашка\4.1\Кросплатформа\laba2\laba2\obj\Debug\netcoreapp3.1\laba2.genruntimeconfig.cache
