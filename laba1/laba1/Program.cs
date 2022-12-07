@@ -30,10 +30,16 @@ namespace laba1
             {
                 Console.WriteLine("Введіть число!");
             }
-            List<char> bukawi = new List<char>(); 
+            List<char> bukawi = new List<char>();
             for (int i = 65; i <= intset[0] + 64; i++)
             {
                 bukawi.Add((char)  i);
+            }
+            if (!(intset[0] < 26 && intset[0] > 1))
+            {
+                Console.WriteLine("Число має бути меньше 26 та більше 1!");
+                Console.ReadLine();
+                return;
             }
 
             List<string> slovawi = new List<string>();
