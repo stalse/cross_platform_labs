@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ыае\\source\\repos\\laba3\\laba3\\laba3.csproj": {}
+    "C:\\Users\\ыае\\Documents\\GitHub\\cross_platform_labs\\laba3\\laba3\\laba3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ыае\\source\\repos\\laba3\\laba3\\laba3.csproj": {
+    "C:\\Users\\ыае\\Documents\\GitHub\\cross_platform_labs\\laba3\\laba3\\laba3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ыае\\source\\repos\\laba3\\laba3\\laba3.csproj",
+        "projectUniqueName": "C:\\Users\\ыае\\Documents\\GitHub\\cross_platform_labs\\laba3\\laba3\\laba3.csproj",
         "projectName": "laba3",
-        "projectPath": "C:\\Users\\ыае\\source\\repos\\laba3\\laba3\\laba3.csproj",
+        "projectPath": "C:\\Users\\ыае\\Documents\\GitHub\\cross_platform_labs\\laba3\\laba3\\laba3.csproj",
         "packagesPath": "C:\\Users\\ыае\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ыае\\source\\repos\\laba3\\laba3\\obj\\",
+        "outputPath": "C:\\Users\\ыае\\Documents\\GitHub\\cross_platform_labs\\laba3\\laba3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ыае\\AppData\\Roaming\\NuGet\\NuGet.Config",
